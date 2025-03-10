@@ -106,9 +106,15 @@ body{
     margin-top: 30px;
 }
 
-@media(max-width: 570px){
+@media(max-width: 570px and min-width: 420px){
     .circle{
          width: 100px;
          height: 100px
+    }
+}
+@media(max-width: 420px){
+    .circle{
+         width: 80px;
+         height: 80px
     }
 }

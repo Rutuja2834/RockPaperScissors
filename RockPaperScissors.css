@@ -25,8 +25,8 @@ body{
 }
 
 .circle{
-    height: 150px;
-    width: 150px;
+    height: 20vw;
+    width: 20vw;
     background-color: aqua;
     margin: 10px;
     border-radius: 100%;
@@ -108,13 +108,13 @@ body{
 
 @media(max-width: 570px) and (min-width: 470px){
     .circle{
-         width: 100px;
-         height: 100px
+         width: 12vw;
+         height: 12vw;
     }
 }
 @media(max-width: 470px){
     .circle{
-         min-width: 70px;
-         min-height: 70px
+         min-width: 10vw;
+         min-height: 10vw;
     }
 }

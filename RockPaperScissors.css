@@ -55,20 +55,20 @@ body{
 
 #rock{
     background-image: url("rock.png");
-    background-size: contain;
+    background-size: cover;
     margin-right: 30px;
 }
 
 #paper{
     background-image: url("paper.png");
-    background-size: contain;
+    background-size: cover;
     margin-left: 30px;
     margin-right: 30px;
 }
 
 #scissors{
     background-image: url("scissors.png");
-    background-size: contain;
+    background-size: cover;
     margin-left: 30px;
 }
 

@@ -25,8 +25,8 @@ body{
 }
 
 .circle{
-    height: 150px;
-    width: 150px;
+    height: 170px;
+    width: 170px;
     background-color: aqua;
     margin: 10px;
     border-radius: 100%;

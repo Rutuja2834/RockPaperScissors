@@ -108,13 +108,13 @@ body{
 
 @media(max-width: 570px) and (min-width: 420px){
     .circle{
-         width: 100px;
-         height: 100px
+         width: 120px;
+         height: 120px
     }
 }
 @media(max-width: 420px){
     .circle{
-         min-width: 90px;
-         min-height: 90px
+         min-width: 100px;
+         min-height: 100px
     }
 }
